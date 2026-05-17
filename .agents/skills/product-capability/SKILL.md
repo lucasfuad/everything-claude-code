@@ -21,9 +21,7 @@ Use it when the gap is not "what should we build?" but "what exactly must be tru
 
 If the repo has a durable product-context file such as `PRODUCT.md`, `docs/product/`, or a program-spec directory, update it there.
 
-If no capability manifest exists yet, create one using the template at:
-
-- `docs/examples/product-capability-template.md`
+If no capability manifest exists yet, create one based on the template bundled with this skill at `references/template.md`.
 
 The goal is not to create another planning stack. The goal is to make hidden capability constraints durable and reusable.
 
